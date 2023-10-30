@@ -43,7 +43,7 @@ python apacheBeampipeline.py --SUBSCRIPTION_NAME <pubsub-subscription> --BQ_TABL
 
 1. Clone this repository:
 ```
-git clone https://github.com/krissemmy/Streaming_data_with_Apache_beam.git
+git clone https://github.com/Gospelmairo/Streaming-Data-With-ApacheBeam.git
 
 ```
 
